@@ -1,0 +1,2 @@
+msn = ('hello world')
+print(msn)
