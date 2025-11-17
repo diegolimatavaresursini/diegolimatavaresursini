@@ -1,3 +1,11 @@
+###Olá, turma!
+Podem perceber que eu pratico em todas oportunidades de ferramentas que a tecnologia me proporciona.
+ALguns repositórios estão em inglês pois quero praticar essa escrita.
+Vamos fazer um projeto?
+Sejam Bem-vindos!
+
+
+
 ### Hi there 👋
 this readme will be about my training with python.
 all of the codes will be here.
